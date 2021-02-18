@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "CC2oEDfBN2u+kIZnN2wqWoYOeMtqctHWjDJI91Cv3H/S8XOfN/H/Tbyiw70BIJBTls/a7IXrxLh8mEAxOy/Tag==",
+  "success": true,
+  "projectFilePath": "D:\\Projet c#\\Scrapper\\Scrapper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jonathan\\.nuget\\packages\\htmlagilitypack\\1.11.30\\htmlagilitypack.1.11.30.nupkg.sha512",
+    "C:\\Users\\Jonathan\\.nuget\\packages\\newtonsoft.json\\13.0.1-beta1\\newtonsoft.json.13.0.1-beta1.nupkg.sha512"
+  ],
+  "logs": []
+}
